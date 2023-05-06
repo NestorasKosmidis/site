@@ -1,6 +1,6 @@
 [submodule "images"]
 	path = images
-	url = https://github.com/NestorasKosmidis/images
+	url = https://github.com/nestoraskosmidis/images.git
     branch = master
 [submodule "_gallery"]
 	path = _gallery
